@@ -26,7 +26,7 @@ in Java.
 This is the main class where all the pieces come together and execution happens.
 
 
-* To run the program *
+**To run the program**
 
 1. Go to Marketeer folder
 2. Run "run.sh" script.
